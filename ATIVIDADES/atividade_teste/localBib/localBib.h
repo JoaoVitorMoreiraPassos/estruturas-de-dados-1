@@ -1,0 +1,1 @@
+void gerarVetor(int *v);

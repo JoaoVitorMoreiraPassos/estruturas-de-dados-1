@@ -1,0 +1,58 @@
+3
+11111
+Sistemas de informacao
+8
+5
+1
+Algoritmos I
+1
+60
+2
+Logica de programacao
+1
+60
+3
+Algoritmos II
+2
+60
+4
+Matematica discreta
+2
+Estruturas de Dados I
+3
+60
+22222
+Nutricao
+2
+2
+5
+Alimentacao I
+1
+60
+6
+Alimentacao II
+2
+60
+33333
+Administracao
+5
+5
+7
+Gestao de arquivos
+1
+60
+8
+Contabilidade Geral
+2
+60
+9
+Tecnologia aplicada a Administracao
+2
+9
+Logistica
+3
+60
+10
+Gestao de pessoas
+3
+60
